@@ -1,0 +1,11 @@
+{
+  "org": "pvlib",
+  "repo": "solarfactors",
+  "versions": [
+    {
+      "commit": "ecbfc863657e239817603a43898ae173c7ccad9c",
+      "tag": "v1.6.1",
+      "parsed_at": "2026-10-16T03:12:04.919812+00:00"
+    }
+  ]
+}
