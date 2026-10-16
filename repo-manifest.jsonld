@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pvlib/solarfactors/commit/ecbfc863657e239817603a43898ae173c7ccad9c",
       "git:hexsha": "ecbfc863657e239817603a43898ae173c7ccad9c",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.6.1"
     },
     {
